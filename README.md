@@ -11,3 +11,6 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 - CSS  
 - Java  
 - MySQL  
+
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
