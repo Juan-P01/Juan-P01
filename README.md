@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Pérez
 
-![Imagen](https://via.placeholder.com/800x300)
+![GIF Programador](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🚀 Sobre mí
 Soy estudiante de Análisis y Desarrollo de Software.  
