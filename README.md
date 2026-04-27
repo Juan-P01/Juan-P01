@@ -12,9 +12,8 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 - Java  
 - MySQL
 
-  ## OBJETIVO
--## 🎯 Objetivo
-Convertirme en un desarrollador sólido, creando proyectos útiles y mejorando constantemente mis habilidades en programación.
+  ## 🎯 OBJETIVO
+- Convertirme en un desarrollador sólido, creando proyectos útiles y mejorando constantemente mis habilidades en programación.
 
 ## 📈 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-P01&show_icons=true&theme=radical)
