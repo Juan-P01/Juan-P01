@@ -8,11 +8,23 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 
 
 ## 🛠️ Herramientas y Tecnologías
-<img width="50" height="50" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/efeb1e04-e32a-4e93-ab6e-75091a2c4a39" /> HTML 
- 
-- CSS  
-- Java  
-- MySQL
+
+<table align="center">
+  <tr>
+    <td align="center">
+     <img width="60" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/efeb1e04-e32a-4e93-ab6e-75091a2c4a39" /> <br>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
+    </td>
+  </tr>
+</table>
 
 ## 🎯 OBJETIVO
 - Convertirme en un desarrollador sólido, creando proyectos útiles y mejorando constantemente mis habilidades en programación.
