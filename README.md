@@ -13,4 +13,4 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 - MySQL  
 
 ## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-P01&show_icons=true&theme=radical)
