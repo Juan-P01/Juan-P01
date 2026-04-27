@@ -9,19 +9,21 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 
 ## 🛠️ Herramientas y Tecnologías
 
-<table align="center">
-    <td align="center">
-     <img width="60" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/efeb1e04-e32a-4e93-ab6e-75091a2c4a39" /> <br>HTML
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/><br>HTML
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/><br>CSS
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>Java
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/><br>Java
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
+    <td align="center" style="border: none; padding: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/><br>MySQL
     </td>
+  </tr>
 </table>
 
 ## 🎯 OBJETIVO
