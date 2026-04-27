@@ -1,6 +1,7 @@
 <H1 align="center"> 👋 Hola, soy Juan Pérez</H1>
 
-<img width="1227" height="377" alt="IMG _INIOP" src="https://github.com/user-attachments/assets/64dfe37b-bca4-4c38-8459-630f810987d0" />
+<img width="2048" height="768" alt="ChatGPT Image 27 abr 2026, 09_56_28 a m" src="https://github.com/user-attachments/assets/7c5b437a-728f-4667-9320-5f9ea946197f" />
+
 
 ## 🚀 Sobre mí
 Soy estudiante de Análisis y Desarrollo de Software.  
