@@ -1,10 +1,11 @@
 # 👋 Hola, soy Juan Pérez
 
-![GIF Programador](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img width="1227" height="377" alt="IMG _INIOP" src="https://github.com/user-attachments/assets/64dfe37b-bca4-4c38-8459-630f810987d0" />
 
 ## 🚀 Sobre mí
 Soy estudiante de Análisis y Desarrollo de Software.  
 Actualmente estudio en el SENA y cuento con el técnico en Programación de Software.  
+
 
 ## 🛠️ Herramientas y Tecnologías
 - HTML  
