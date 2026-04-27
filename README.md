@@ -8,7 +8,8 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 
 
 ## 🛠️ Herramientas y Tecnologías
-- HTML  
+<img width="500" height="500" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/efeb1e04-e32a-4e93-ab6e-75091a2c4a39" /> HTML hr
+ 
 - CSS  
 - Java  
 - MySQL
