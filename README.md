@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Pérez
 
-<!--
-**Juan-P01/Juan-P01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imagen](https://via.placeholder.com/800x300)
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy estudiante de Análisis y Desarrollo de Software.  
+Actualmente estudio en el SENA y cuento con el técnico en Programación de Software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas y Tecnologías
+- HTML  
+- CSS  
+- Java  
+- MySQL  
