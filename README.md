@@ -1,9 +1,6 @@
 <H1 align="center"> 👋 Hola, soy Juan Pérez</H1>
 
-
-
-<img width="1227" height="377" alt="IMG _INIOP" src="https://github.com/user-attachments/assets/64dfe37b-bca4-4c38-8459-630f810987d0" />
-
+<img width="800" height="300" alt="banner" src="https://github.com/user-attachments/assets/31cb6838-c6e0-4d32-82cf-8d4519b7b873" />
 
 
 ## 🚀 Sobre mí
