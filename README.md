@@ -10,7 +10,6 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 ## 🛠️ Herramientas y Tecnologías
 
 <table align="center">
-  <tr>
     <td align="center">
      <img width="60" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/efeb1e04-e32a-4e93-ab6e-75091a2c4a39" /> <br>HTML
     </td>
@@ -23,7 +22,6 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
     </td>
-  </tr>
 </table>
 
 ## 🎯 OBJETIVO
@@ -31,6 +29,5 @@ Actualmente estudio en el SENA y cuento con el técnico en Programación de Soft
 
 ## 📈 Estadísticas
 
-<div align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-P01&show_icons=true&theme=radical)
-</div>
+
